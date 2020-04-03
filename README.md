@@ -1,6 +1,6 @@
 <h1 align="center">💈GoBarber 💈</h1>
 <p>
-  <a href="#" target="_blank">
+  <a href="https://github.com/almeidarenato/GoBarber/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/renat0alm" target="_blank">
